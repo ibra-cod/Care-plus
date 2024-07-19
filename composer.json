@@ -1,0 +1,16 @@
+{
+    "name": "ibrahim/care-plus",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Core\\": "Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibrahim SOMA",
+            "email": "ibrahim.soma@hetic.net"
+        }
+    ],
+    "require": {}
+}
