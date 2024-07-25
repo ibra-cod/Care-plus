@@ -1,13 +1,6 @@
 <?php
-
-use App\App\App;
-$app = new App ();
- $app->requireIt('includes/header')
+ $app->requireIt('includes/HTMLHeader');
   ?>
-
 <?php echo $content ?>
-
-
 <?php 
-$app->requireIt('includes/footer')
-?>
+$app->requireIt('includes/footer');?>

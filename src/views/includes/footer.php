@@ -1,4 +1,4 @@
-<footer class="footer bg-indigo-600 text-white h-100">
+<footer class="footer bg-indigo-600 text-white mt-auto ">
     <div class="">
             <div>
                 <p>
@@ -6,6 +6,6 @@
                 </p>
             </div>
     </div>
-</footer>
+</footer >
 </body>
 </html>

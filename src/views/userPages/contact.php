@@ -1,0 +1,1 @@
+<p class=" text-cyan-600 ">page contact</p>

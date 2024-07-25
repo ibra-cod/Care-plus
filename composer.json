@@ -12,5 +12,7 @@
             "email": "ibrahim.soma@hetic.net"
         }
     ],
-    "require": {}
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
 }
